@@ -1,4 +1,3 @@
-# NONMTO25498_FTO2506_GroupA_Nontuthuzelo-Mtolo_CDV02
 # 👋 Hi, I'm Nontuthuzelo🙂
 
 💡Get to know me—my skills, experience, and projects as a passionate developer<img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving hand" width="40" height="40">
@@ -21,9 +20,11 @@
 Here are a few projects that reflect my journey and skills so far:
 
 - 🔗 **[ITW Challenge Solutions](https://github.com/NontuthuzeloM24/NONMTO25498_FTO2506_GroupA_Nontuthuzelo-Mtolo_SDF02)**
+
   A collection of coding challenges from CodeSpace’s *Introduction to the Web* module, focused on semantic HTML, layout, and responsive structure.
 
 - 🤝 **Group-Based Development Briefs**
+
   Collaborative front-end projects where I practiced version control, teamwork, and structured project delivery.
 
 - 🎨 **Responsive UI Projects with CSS & Frameworks**
