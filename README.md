@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nontuthuzelo🙂
 
-💡Get to know me—my skills, experience, and projects as a passionate developer  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving hand" width="30" height="30">
+💡Get to know me — my skills, experience, and projects as a passionate developer  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving hand" width="30" height="30">
 
 ---
 
