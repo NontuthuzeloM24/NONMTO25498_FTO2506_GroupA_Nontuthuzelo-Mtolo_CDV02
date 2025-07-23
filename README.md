@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nontuthuzelo🙂
+# 👋 Hey, I'm Nontuthuzelo🙂
 
-💡Get to know me—my skills, experience, and projects as a passionate developer<img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving hand" width="40" height="40">
+💡Get to know me—my skills, experience, and projects as a passionate developer<img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving hand" width="30" height="30">
 
 ---
 
@@ -61,5 +61,7 @@ Here are a few projects that reflect my journey and skills so far:
 Feel free to reach out or follow my work through the channels below:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NontuthuzeloM24) 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nontuthuzelo-mtolo-877b34237)
+
 📧 Email: [mtolonontuthuzelo4@gmail.com](mailto:mtolonontuthuzelo4@gmail.com)
