@@ -31,6 +31,7 @@ Here are a few projects that reflect my journey and skills so far:
   - 📚 [Book Connect](https://github.com/NontuthuzeloM24/sdf-book-connect)
   - 🧱 [CSS Layout Challenge](https://github.com/NontuthuzeloM24/NONMTO25498_FTO2506_GroupA_Nontuthuzelo-Mtolo_SDF03)
   - 🏷️ [HTML and CSS challenge!](https://github.com/NontuthuzeloM24/NONMTO25498_FTO2506_GroupA_Nontuthuzelo-Mtolo_SDF04)
+  - 📁 [Resume Project](https://github.com/NontuthuzeloM24/NONMTO25498_FTO2506_GroupA_Nontuthuzelo-Mtolo_SDFPP)
  
   A series of web pages showcasing my skills in **advanced CSS**, **responsive design**, and layout techniques using **Flexbox**, **Grid**, and **Tailwind CSS**.
 
